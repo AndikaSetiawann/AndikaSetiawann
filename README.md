@@ -1,4 +1,6 @@
-<img src="gambar/banner.png" alt="Banner" width="100%" />
+<marquee behavior="scroll" direction="left" scrollamount="5">
+👨‍💻 Welcome! Sedang belajar Android, Python, dan MySQL • Follow untuk lihat progresku 🚀
+</marquee>
 
 ## 👋 Hi, I’m Setiawan
 
