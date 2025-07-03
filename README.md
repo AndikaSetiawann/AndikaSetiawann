@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner" width="100%" />
+<img src="gambar/banner.png" alt="Banner" width="100%" />
 
 ## 👋 Hi, I’m Setiawan
 
