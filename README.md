@@ -1,26 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Halo%2C+Saya+Setiawan!;Sedang+belajar+Backend%2C+Android+dan+CI4;Ngoding+biar+lebih+baik+setiap+hari!)](https://github.com/AndikaSetiawann)
-
----
-
-<h1 align="center">👋 Hi there! I'm Setiawan</h1>
+<h2 align="center">
+  <span style="color:#FF69B4; text-shadow: 0px 0px 5px #ffffff;">
+    ✨ Halo, Saya Setiawan — Aspiring Developer ✨
+  </span>
+</h2>
 
 <p align="center">
-💻 Tech enthusiast | 🔧 Android & Web Learner | 🌱 Always learning
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Belajar+Backend+%26+Android;Ngoding+biar+lebih+baik+setiap+hari!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Tentang Saya
+## 👋 Tentang Saya
 
 - 🔭 Sedang mengembangkan aplikasi **Outfitly** (Android)
-- 👨‍💻 Belajar backend dengan **Python, MySQL**, dan **CI4**
-- 👥 Kolaborasi dalam project **Find a Job** (Next.js + DB)
-- 📫 Kontak: *[email kamu di sini]*
-- 🎯 Fokus saat ini: Menjadi backend developer yang solid
+- 🌱 Belajar **Python**, **MySQL**, dan **CI4** untuk backend
+- 👥 Kolaborasi dalam project **Find a Job** (Next.js)
+- 📬 Kontak: [email kamu di sini]
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -32,7 +31,7 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndikaSetiawann&show_icons=true&theme=radical" width="47%" />
@@ -50,5 +49,5 @@
 ---
 
 <p align="center">
-  💬 "Ngoding itu bukan siapa paling jago, tapi siapa yang paling konsisten belajar."
+  💬 <i>"Ngoding itu bukan siapa paling jago, tapi siapa yang paling konsisten belajar."</i>
 </p>
