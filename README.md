@@ -1,11 +1,11 @@
 <h2 align="center">
   <span style="color:#FF69B4;">
-    ✨ Halo, Saya Setiawan — Aspiring Developer ✨
+    ✨ Selamat datang di profil saya ✨
   </span>
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Belajar+Backend+%26+Android;Ngoding+biar+lebih+baik+setiap+hari!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Saya+Setiawan%2C+Aspiring+Developer;Belajar+Backend+%26+Android;Fokus+CI4%2C+Python%2C+MySQL" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,16 +13,16 @@
 ## 👋 Tentang Saya
 
 - 🔭 Sedang mengembangkan aplikasi **Outfitly** (Android)
-- 🌱 Masih Pemula Puh
+- 🌱 Belajar **Python**, **MySQL**, **JavaScript**, dan **CI4**
 - 👥 Kolaborasi dalam project **Find a Job** (Next.js)
-- 📬 Kontak: *asetiawanandika@gmail.com*
+- 📬 Kontak: asetiawanandika@gmail.com
 
 ---
 
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-F52A0E?style=for-the-badge&logo=codeigniter&logoColor=white" />
