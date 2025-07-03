@@ -1,21 +1,21 @@
 <h2 align="center">
   <span style="color:#FF69B4;">
-    ✨ Welcome TO My Profile ✨
+    ✨ Welcome to My Profile ✨
   </span>
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Saya+Setiawan;Masih+Pemula+Puh;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi,+I'm+Setiawan;Still+Learning,+Please+Be+Kind+🙏;Always+Improving,+One+Line+at+a+Time+💻" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👋 Tentang Saya
+## 👋 About Me
 
-- 🔭 Sedang mengembangkan aplikasi **Outfitly** (Android)
-- 🌱 Belajar **Python**, **MySQL**, **JavaScript**, dan **CI4**
-- 👥 Kolaborasi dalam project **Find a Job** (Next.js)
-- 📬 Kontak: asetiawanandika@gmail.com
+- 🔭 Currently working on the **Outfitly** Android App  
+- 🌱 Learning **Python**, **MySQL**, **JavaScript**, and **CodeIgniter 4**  
+- 🤝 Collaborating on a **job portal project** using **Next.js**  
+- 📬 Reach me at: asetiawanandika@gmail.com  
 
 ---
 
@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  💬 <i>"Ngoding itu bukan siapa paling jago, tapi siapa yang paling konsisten belajar."</i>
+  💬 <i>"Coding isn't about being the best. It's about being better than you were yesterday."</i>
 </p>
