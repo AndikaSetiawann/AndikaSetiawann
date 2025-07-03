@@ -15,7 +15,7 @@
 - 🔭 Sedang mengembangkan aplikasi **Outfitly** (Android)
 - 🌱 Belajar **Python**, **MySQL**, dan **CI4**
 - 👥 Kolaborasi dalam project **Find a Job** (Next.js)
-- 📬 Kontak: *[email kamu di sini]*
+- 📬 Kontak: *asetiawanandika@gmail.com*
 
 ---
 
