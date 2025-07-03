@@ -1,6 +1,6 @@
 <h2 align="center">
   <span style="color:#FF69B4;">
-    ✨ Selamat datang di profil saya ✨
+    ✨ Welcome TO My Profile ✨
   </span>
 </h2>
 
