@@ -1,10 +1,10 @@
 <img src="banner.png" alt="Banner" width="100%" />
 
-## 👋 Hi, I’m Andika Setiawan
+## 👋 Hi, I’m Setiawan
 
-- 🔭 Working on Outfitly App
-- 🌱 Learning Backend Python & MySQL
-- 👯 Collaborating on "Find a Job" project
+- 🔭 Sedang mengerjakan Outfitly App (Android)
+- 🌱 Belajar Backend Development (Python & MySQL)
+- 👯 Kolaborasi dalam project "Find a Job" (Next.js + MySQL)
 
 ---
 
