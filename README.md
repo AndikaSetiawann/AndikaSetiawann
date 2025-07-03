@@ -1,5 +1,5 @@
 <h2 align="center">
-  <span style="color:#FF69B4; text-shadow: 0px 0px 5px #ffffff;">
+  <span style="color:#FF69B4;">
     ✨ Halo, Saya Setiawan — Aspiring Developer ✨
   </span>
 </h2>
@@ -13,9 +13,9 @@
 ## 👋 Tentang Saya
 
 - 🔭 Sedang mengembangkan aplikasi **Outfitly** (Android)
-- 🌱 Belajar **Python**, **MySQL**, dan **CI4** untuk backend
+- 🌱 Belajar **Python**, **MySQL**, dan **CI4**
 - 👥 Kolaborasi dalam project **Find a Job** (Next.js)
-- 📬 Kontak: [email kamu di sini]
+- 📬 Kontak: *[email kamu di sini]*
 
 ---
 
